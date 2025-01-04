@@ -3,6 +3,7 @@ Pixelwar is an innovative project that allows users to engage in a fun and compe
 
 Features
 Collaborative Pixel Art: Create pixel art together with friends or the community.
+
 Interactive Gameplay: Compete or collaborate on pixel canvases in real-time.
 Customization: Choose from a variety of tools, colors, and grid sizes.
 Save and Share: Export your creations and share them on social media or with your community.
